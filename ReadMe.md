@@ -1,5 +1,5 @@
 ## About Me:
-I am a industrial engineering master student interested in Finance and Machine Learning.
+I am a Master Student of Industrial Engineering at the Karlsruhe Institute of Technology (KIT). My primary fields are investing and programming. I am interested in issues related to finance (portfolio & risk management); mathematics (statstics & operations research) and infomatics (data science & machine learning).
 
 
 ## Social Media:
