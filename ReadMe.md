@@ -1,5 +1,5 @@
 ## About Me:
-I am a Master Student of Information Systems at the KIT/TUM. My primary fields are investing and programming. I am interested in issues related to finance (portfolio & risk management); mathematics (statstics & operations research) and infomatics (data science & machine learning).
+I am a Master Student of Information Systems at the KIT/TUM. My primary fields are programming and finance. I am interested in issues related to finance (portfolio & risk management); mathematics (statstics & operations research) and infomatics (data science & machine learning).
 
 
 ## Social Media:
