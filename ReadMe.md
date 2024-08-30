@@ -8,7 +8,10 @@ I am currently a Master Student of Information Systems at the KIT and completed 
 ## Social Media:
 Linkedin: www.linkedin.com/in/simon-leiner2020 
 
-## Tech Stack Python, Rust, Java, JavaScript, R & SQL | PostgreSQL \& MongoDB | Git | Docker & Kubernetes | HTML & CSS |  Excel, Word, PowerPoint, PowerBI, Databricks  & LaTeX| NumPy, Pandas, Polars, Scikit-learn & TensorFlow:
+## Tech Stack:
+
+#### Python, Rust, Java, JavaScript, R & SQL | PostgreSQL \& MongoDB | Git | Docker & Kubernetes | HTML & CSS |  Excel, Word, PowerPoint, PowerBI, Databricks  & LaTeX| NumPy, Pandas, Polars, Scikit-learn & TensorFlow:
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1) 
