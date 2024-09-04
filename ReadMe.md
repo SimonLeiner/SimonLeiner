@@ -11,8 +11,6 @@ I am currently a Master Student of Information Systems at the TUM and completed 
 
 ## Tech Stack:
 
-#### Python, Rust, Java, JavaScript, R & SQL | PostgreSQL \& MongoDB | Git | Docker & Kubernetes | HTML & CSS |  Excel, Word, PowerPoint, PowerBI, Databricks  & LaTeX| NumPy, Pandas, Polars, Scikit-learn & TensorFlow:
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1) 
@@ -34,4 +32,6 @@ I am currently a Master Student of Information Systems at the TUM and completed 
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+#### Python, Rust, Java, JavaScript, R & SQL | PostgreSQL \& MongoDB | Git | Docker & Kubernetes | HTML & CSS |  Excel, Word, PowerPoint, PowerBI & Databricks | LaTeX | NumPy, Pandas, Polars, Scikit-learn & TensorFlow.
 
