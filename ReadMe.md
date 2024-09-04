@@ -6,7 +6,8 @@ I am currently a Master Student of Information Systems at the TUM and completed 
 - Equity and Portfolio Analysis with Django
 
 ## Social Media:
-Linkedin: www.linkedin.com/in/simon-leiner2020 
+
+[LinkedIn](https://www.linkedin.com/in/simon-leiner2020)
 
 ## Tech Stack:
 
