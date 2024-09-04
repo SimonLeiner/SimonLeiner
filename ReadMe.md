@@ -1,7 +1,7 @@
 ## About Me:
 I am currently a Master Student of Information Systems at the TUM and completed my Bachelors in Industrial Engineering at the KIT. I am interested in topics related to quantitative finance (portfolio & risk management); mathematics (statstics & operations research) and computer science (data science & machine learning).
 
-## Selected Projects:
+## Selected Projects (Most Repositories are private):
 - Statistical Arbitrage and other investments strategies with polars, functime and nautilus-trader.
 - Equity and Portfolio Analysis with Django
 
