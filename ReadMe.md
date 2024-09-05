@@ -8,6 +8,7 @@ I am currently a Master Student of Information Systems at the TUM and completed 
 ## Social Media:
 
 [LinkedIn](https://www.linkedin.com/in/simon-leiner2020)
+[Kaggle](https://www.kaggle.com/simonleiner)
 
 ## Tech Stack:
 
