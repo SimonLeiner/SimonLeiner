@@ -14,10 +14,10 @@ I am currently a Master Student of Information Systems at the TUM and completed 
 ## Tech Stack:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Rust](https://img.shields.io/badge/rust-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Rust](https://img.shields.io/badge/rust-3670A0?style=for-the-badge&logo=rust&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1) 
-![R](https://img.shields.io/badge/-R-000?&logo=MySQL&logoColor=4479A1) 
+![R]([https://img.shields.io/badge/-R-000?&logo=MySQL&logoColor=4479A1](https://img.shields.io/badge/-R-000?&logo=R&logoColor=4479A1)) 
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -29,7 +29,7 @@ I am currently a Master Student of Information Systems at the TUM and completed 
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![Polars](https://img.shields.io/badge/polars-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![Polars](https://img.shields.io/badge/polars-%23150458.svg?style=for-the-badge&logo=polars&logoColor=white) 
 
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
 ![Tensorflow](https://img.shields.io/badge/tensorflow-%23EE4C2C.svg?style=for-the-badge&logo=tensorflow&logoColor=white) 
