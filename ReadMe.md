@@ -17,7 +17,6 @@ I am currently a Master Student of Information Systems at the TUM and completed 
 ![Rust](https://img.shields.io/badge/rust-3670A0?style=for-the-badge&logo=rust&logoColor=ffdd54) 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1) 
-![R]([https://img.shields.io/badge/-R-000?&logo=MySQL&logoColor=4479A1](https://img.shields.io/badge/-R-000?&logo=R&logoColor=4479A1)) 
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
