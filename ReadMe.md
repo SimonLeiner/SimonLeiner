@@ -36,6 +36,3 @@ I am currently a Master Student of Information Systems at the TUM and completed 
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-
-#### Python, Rust, Java, JavaScript, R & SQL | PostgreSQL \& MongoDB | Git | Docker & Kubernetes | HTML & CSS |  Excel, Word, PowerPoint, PowerBI & Databricks | LaTeX | NumPy, Pandas, Polars, Scikit-learn & TensorFlow.
-
